@@ -43,8 +43,9 @@ Es la parte de la CPU que dirige la operación del procesador. Indica a la memor
 ## **Memoria RAM y memoria ROM**
 
 1. Memoria RAM (Memoria de Acceso Aleatorio): Memoria volátil utilizada para almacenar datos e instrucciones que la CPU necesita de manera temporal.
-2. Memoria ROM (Memoria de Solo Lectura): Memoria no volátil que contiene datos o instrucciones que no cambian, como el firmware del sistema. Estos términos siguen siendo vigentes y fundamentales en la arquitectura de los procesadores actuales. 
-AWS.AMAZON.COM
+2. Memoria ROM (Memoria de Solo Lectura): Memoria no volátil que contiene datos o instrucciones que no cambian, como el firmware del sistema. 
+
+Estos términos siguen siendo vigentes y fundamentales en la arquitectura de los procesadores actuales. 
 
 ## **Opcode**
 
