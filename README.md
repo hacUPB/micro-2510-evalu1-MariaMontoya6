@@ -33,7 +33,7 @@ Este contine el archivo donde se describen los siguientes componentes clave de u
 - **Buses**  
   Canales por los que se transfieren datos, direcciones y señales de control entre los distintos componentes del sistema.
 
-  ### 📁 ISA
+### 📁 ISA
 [Ver ISA](Act_1_Componentes_de_un_procesador/ISA.md)
 
 Este documento explica los fundamentos de la arquitectura ARM, especialmente orientado al Cortex-M4 y su uso en sistemas embebidos.
@@ -47,6 +47,31 @@ Puntos clave:
 
 🛠️ Código en ensamblador:
 Incluye ejemplos con instrucciones como MOV, CMP, B, desplazamientos lógicos y aritméticos, y estructuras condicionales (if, while, etc.).
+
+### 📁 MAPA DE MEMORIA
+[Ver mapa de memoria](Act_1_Componentes_de_un_procesador/Mapa_de_Memoria.md)
+
+Este apartado explora cómo se organiza la memoria en microprocesadores y las principales arquitecturas usadas en sistemas computacionales.
+
+🗺️ Mapa de Memoria
+- Representa cómo el procesador accede a RAM, ROM y periféricos.
+- En el MC6802 se usan 11 líneas de dirección (A0–A10).
+- El MC6846 tiene 2 KB de ROM y acceso a datos de 8 bits (D0–D7).
+
+🏛️ Tipos de Arquitectura
+
+-Von Neumann: Memoria compartida para datos e instrucciones (simple pero con cuello de botella).
+Harvard: Memorias separadas (más rápida y segura, pero compleja).
+
+CISC vs. RISC:
+
+- CISC: Instrucciones complejas, código compacto.
+- RISC: Instrucciones simples, ejecución eficiente y energética.
+
+🌐 Tendencias
+- Uso de arquitecturas híbridas (ej. Harvard modificada, CISC con núcleo RISC).
+- Elección de arquitectura depende del contexto: IoT, computación general, HPC, etc.
+- La eficiencia energética impulsa la adopción de RISC en muchos entornos modernos.
 
 
   
