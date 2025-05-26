@@ -15,11 +15,15 @@
 - **Rendimiento equilibrado**: Adecuado para tareas multimedia y multitarea en smartphones/tablets.
 - **Ecosistema**: Soporte masivo de fabricantes (Qualcomm, Apple, Samsung) y sistemas operativos (Android, iOS).
 
+<img src="https://github.com/user-attachments/assets/ecb77d00-de9f-4927-9e76-1c3d2dd78bcc" width="200px" height="150px" />
+
+
 ## 3. ¿En qué consiste la “Arquitectura Harvard modificada” en ARM?
 - **Separación de buses** para instrucciones y datos (como en Harvard pura), pero con un **espacio de memoria unificado**.
 - Ventajas:
   - Permite fetch de instrucciones y acceso a datos en paralelo.
   - Mantiene compatibilidad con memoria compartida para instrucciones y datos.
+    
 
 ## 4. ¿Cuáles son las principales familias de procesadores ARM?
 - **Cortex-A**: Para aplicaciones (smartphones, tablets, sistemas operativos complejos).
@@ -27,6 +31,8 @@
 - **Cortex-M**: Microcontroladores (IoT, dispositivos embebidos de bajo consumo).
 - **SecurCore**: Seguridad (tarjetas SIM, pagos).
 - **Neoverse**: Infraestructura y servidores.
+
+<img src="https://github.com/user-attachments/assets/fcd23a68-b1dd-4445-896e-e1aff124a56c" width="200px" height="150px" />
 
 ## 5. ¿Qué ventajas ofrece el set de instrucciones Thumb-2?
 - **Mejor balance entre rendimiento y densidad de código**:
@@ -40,11 +46,18 @@
 - **Herramientas**: Amplio soporte de compiladores (GCC, LLVM), RTOS, y librerías.
 - **Open Source**: Proyectos como Mbed OS facilitan el desarrollo.
 
+<img src="https://github.com/user-attachments/assets/e91b1c5a-413c-4e1e-9904-3475178fe285" width="300px" height="150px" />
+
+
 ## 7. ¿Qué características distinguen al ARM Cortex-M4?
 - **DSP integrado**: Instrucciones SIMD para procesamiento digital de señales.
 - **FPU opcional**: Unidad de punto flotante para cálculos complejos.
 - **Bajo consumo**: Modos sleep avanzados (ideal para IoT).
 - **Núcleo eficiente**: Pipeline 3-etapas (Fetch, Decode, Execute).
+
+- 
+<img src="https://github.com/user-attachments/assets/41c8f2fc-7ae5-425d-b5a1-a481097cb89b" width="300px" height="150px" />
+
 
 ## 8. ¿Qué tipos de registros básicos se encuentran en la arquitectura ARM Cortex-M?
 - **Registros de propósito general (R0-R12)**: Para operaciones aritméticas y lógicas.
