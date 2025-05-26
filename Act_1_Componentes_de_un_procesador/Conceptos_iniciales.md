@@ -377,9 +377,6 @@ La CPU divide la instrucción en campos clave:
   - "Conectar R3 a entrada B" ✅
   - "Guardar resultado en R1" ✅
 
-  
-  
-
 ### *Tabla de fuentes*
 
 | Pagina | Enlace |
