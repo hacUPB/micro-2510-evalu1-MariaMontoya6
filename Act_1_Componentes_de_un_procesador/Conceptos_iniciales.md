@@ -4,9 +4,9 @@
 ### Definición Profunda
 La **Unidad Central de Procesamiento** es un circuito digital superscalar que implementa el modelo de ejecución de instrucciones de una arquitectura específica mediante hardware semiconductor (generalmente CMOS en tecnologías FinFET modernas).
 
-<img src="https://github.com/user-attachments/assets/e55e6fac-7794-461f-b05d-4b4aeee7b4dc" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/e55e6fac-7794-461f-b05d-4b4aeee7b4dc" width="300px" height="150px" />
 
-##### PROCESADOR RISC
+### PROCESADOR RISC
 
 Un procesador RISC (Reduced Instruction Set Computer) es un tipo de arquitectura de procesador que se basa en un conjunto reducido y optimizado de instrucciones, diseñadas para ejecutarse rápidamente y de forma eficiente, generalmente en un solo ciclo de reloj.
 # Comparación RISC vs CISC
@@ -19,7 +19,7 @@ Un procesador RISC (Reduced Instruction Set Computer) es un tipo de arquitectura
 | Tamaño de instrucción   | Fijo (generalmente)              | Variable                          |
 | Ejemplo                 | ARM, RISC-V                      | x86, x86-64                       |
 
-<img src="https://github.com/user-attachments/assets/e55e6fac-7794-461f-b05d-4b4aeee7b4dc" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/998b1d8c-6b21-44fa-ada9-a2fd49b4bb6c" width="200px" height="150px" />
 
 ### Arquitectura Detallada
 #### Pipeline de Ejecución
@@ -141,7 +141,7 @@ Puede estar implementada como:
   - Protocolos de arbitraje (round-robin, priority-based)
   - Traducción de direcciones (MMU)
 
-<img src="https://github.com/user-attachments/assets/e55e6fac-7794-461f-b05d-4b4aeee7b4dc" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/aa47c2d7-2b2d-4231-8497-a34227a83455" width="200px" height="150px" />
 
 ## 6. Memorias
 ### RAM (Random Access Memory)
@@ -160,7 +160,8 @@ Puede estar implementada como:
 #### ¿Son vigentes los terminos?
 Sí. Aunque las tecnologías evolucionaron (RAM DDR5, Flash, etc.), los conceptos de RAM y ROM siguen siendo fundamentales y de uso habitual en informática y sistemas embebidos.
 
-<img src="https://github.com/user-attachments/assets/e55e6fac-7794-461f-b05d-4b4aeee7b4dc" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/368c0060-9762-4450-bf4b-e57cb4a5df60" width="200px" height="150px" />
+
 
 ## 7. Opcode
 Un opcode (código de operación) es la parte de una instrucción de máquina que indica a la CPU qué operación debe realizar. Especifica el tipo de operación como:
@@ -280,7 +281,8 @@ El CPU *realiza* la operación. Es el equivalente a mezclar ingredientes según 
 **Ejemplo**:  
 `ALU suma los valores de R2 (0x5) y R3 (0x3) → Resultado 0x8`
 
-<img src="https://github.com/user-attachments/assets/e55e6fac-7794-461f-b05d-4b4aeee7b4dc" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/282e6d88-da8a-4f19-930a-c7aa43c79988" width="200px" height="150px" />
+
 
 # INSTRUCCIONES TIPO A Y C
 
