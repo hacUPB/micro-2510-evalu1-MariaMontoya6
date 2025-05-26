@@ -19,7 +19,7 @@ Un procesador RISC (Reduced Instruction Set Computer) es un tipo de arquitectura
 | Tamaño de instrucción   | Fijo (generalmente)              | Variable                          |
 | Ejemplo                 | ARM, RISC-V                      | x86, x86-64                       |
 
-<img src="https://github.com/user-attachments/assets/998b1d8c-6b21-44fa-ada9-a2fd49b4bb6c" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/998b1d8c-6b21-44fa-ada9-a2fd49b4bb6c" width="300px" height="250px" />
 
 ### Arquitectura Detallada
 #### Pipeline de Ejecución
@@ -108,6 +108,7 @@ Tienen funciones definidas por la arquitectura del procesador.
   - N (Negative): Resultado negativo
   - V (Overflow): Desbordamiento aritmético
   - P (Parity): Paridad del resultado
+<img src="https://github.com/user-attachments/assets/407a65a2-e2b1-4c7f-ab5f-03c61bdfe70c" width="200px" height="150px" />
 
 ## 4. Unidad de Control
 La Unidad de Control coordina y dirige la ejecución de instrucciones en la CPU. Sus responsabilidades incluyen:
@@ -281,7 +282,7 @@ El CPU *realiza* la operación. Es el equivalente a mezclar ingredientes según 
 **Ejemplo**:  
 `ALU suma los valores de R2 (0x5) y R3 (0x3) → Resultado 0x8`
 
-<img src="https://github.com/user-attachments/assets/282e6d88-da8a-4f19-930a-c7aa43c79988" width="200px" height="150px" />
+<img src="https://github.com/user-attachments/assets/282e6d88-da8a-4f19-930a-c7aa43c79988" width="300px" height="250px" />
 
 
 # INSTRUCCIONES TIPO A Y C
